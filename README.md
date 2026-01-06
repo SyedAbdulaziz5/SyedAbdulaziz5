@@ -2,8 +2,8 @@
 - 👀 I’m interested in Artificial intelligence
 - 🌱 I’m currently learning Next JS
 - 📫 How to reach me syedabdulaziz531@gmail.com
-- - 📄 Know about my experiences ...
-- ⚡ Fun fact: Video games, Racket
+- 📄 Know about my experiences https://drive.google.com/file/d/1_6TkoJV_tdP_fBWuMe2jn_kYfciF8s71/view?usp=sharing
+- ⚡ Fun fact: Video games, Badminton
 
 <!---
 SyedAbdulaziz5/SyedAbdulaziz5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
