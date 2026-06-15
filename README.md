@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial intelligence
 - 🌱 I’m currently learning AI Automation
 - 📫 How to reach me syedabdulaziz531@gmail.com
-- 📄 Know about my experiences https://drive.google.com/file/d/1VEdnLadUPRmUBIcCZ2YgmKsmLXgd3Vnk/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1ZAKuzpcmyx7Ows16QAgU5lBPuFA4J5qk/view?usp=sharing
 - ⚡ Fun fact: Video games, Badminton
 
 <!---
